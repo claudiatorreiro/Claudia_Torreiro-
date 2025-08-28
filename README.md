@@ -23,8 +23,27 @@
 
 ---
 
-## 🧠 Tecnologias que estou aprendendo
+## 🎓 Formação
+- Bacharel em **Direito** – especialização em **Direito Municipal**  
+- Interesse em iniciar **Graduação em Gestão da Tecnologia da Informação (GTI)**  
+  > Complementa a transição para Backend com visão de processos, projetos e governança de TI.
 
+---
+
+## 📜 Certificações & Cursos
+**Google Data Analytics – Professional Certificate (Coursera)** · *Em andamento*  
+- ✅ Curso 1: *Foundations: Data, Data, Everywhere*  
+- ✅ Curso 2: *Ask Questions to Make Data-Driven Decisions*  
+- ⏳ Próximos: *Prepare Data for Exploration*, *Process Data from Dirty to Clean*, *Analyze Data to Answer Questions*, *Share Data Through the Art of Visualization*, *Data Analysis with R Programming*, *Capstone*  
+
+Conteúdos: lógica de análise de dados, perguntas orientadas a negócio, planilhas, noções de SQL/visualização e tomada de decisão baseada em dados.
+
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white)
+![Google](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?logo=google&logoColor=white)
+
+---
+
+## 🧠 Tecnologias que estou aprendendo
 **Linguagens**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
@@ -103,4 +122,5 @@ Este repositório reúne **aulas, exercícios e projetos práticos** da formaç�
 - **Email:** cgtorreiro@hotmail.com
 
 > ✨ “Transição de carreira não é ruptura, é reinvenção. Minha missão é unir Direito + Tecnologia para criar soluções de impacto social.”
+
 
