@@ -6,7 +6,7 @@ Backend em formação (Python & Java)
 
 ⚖️ Servidora Pública e Advogada especializada em Direito Municipal
 
-💻 Em transição de carreira para a área de **Tecnologia**, com foco em **Backend (Python & Java)**
+💻 Em transição de carreira para a área de **Tecnologia**, com foco em **Backend (Python 🐍 & Java 🤖)**
 
 🚀 Participante do programa **Bolsa Futuro Digital - Backend Python (Softex PE)**  
 
