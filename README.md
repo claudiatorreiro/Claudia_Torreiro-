@@ -1,86 +1,72 @@
-Meu perfil 👩‍💻 no GitHub 🐱          
-Backend em formação (Python & Java)      
-⚖️ Direito + 💻 Tecnologia Inovação Digital 💡 LegalTech 🚀
+# Claudia Torneiro 👩‍💻
 
-# Olá, eu sou Claudia Torreiro 👋  
-
-⚖️ Servidora Pública e Advogada especializada em Direito Municipal
-
-💻 Em transição de carreira para a área de **Tecnologia**, com foco em **Backend (Python 🐍 & Java 🤖)**
-
-🚀 Participante do programa **Bolsa Futuro Digital - Backend Python (Softex PE)**  
-
-📚 Apaixonada por unir **Direito + Tecnologia** 👩‍💻 para desenvolver soluções em **LegalTech, GovTech e RegTech**  
+**Backend em formação (Python & Java)**  
+⚖️ **Direito + Tecnologia & Inovação Digital** · LegalTech · GovTech · RegTech
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+## 👋 Sobre mim
+- ⚖️ Servidora Pública e **Advogada** especializada em **Direito Municipal**  
+- 💻 Em **transição de carreira** para **Tecnologia**, com foco em **Backend (Python 🐍 & Java 🤖)**  
+- 🚀 Participante do programa **Bolsa Futuro Digital – Backend Python (Softex PE)**  
+- 📚 Apaixonada por unir **Direito + Tecnologia** para criar soluções de impacto
+
+---
+
+## 🧠 Tecnologias que estou aprendendo
 - **Linguagens:** Python, Java  
 - **Backend:** Flask, FastAPI, Spring Boot  
 - **Banco de Dados:** PostgreSQL, MySQL, MongoDB  
-- **Ferramentas:** Git & GitHub, Linux, Docker (iniciante)  
+- **Ferramentas:** Git & GitHub, Linux, Docker (iniciante)
 
 ---
 
-## 📂 Projetos em Destaque
-🔹 [CRUD de Tarefas em Flask](#)  
-🔹 [API de Cadastro de Imóveis](#)  
-🔹 [Dashboard de Dados Públicos (Python + Pandas)](#)  
-
-*(em breve vou subir mais repositórios com projetos de aprendizado!)*
-
----
-
-## 🌐 Conecte-se comigo
-LinkedIn:
-# 📚 Aulas do Programa Bolsa Futuro Digital (Backend Python)
-
-Bem-vindos ao meu repositório de estudos do curso **Backend com Python** pela **Softex PE**, no âmbito do programa federal **Bolsa Futuro Digital** 🚀  
-
-Aqui registro **aulas, exercícios e projetos práticos** desenvolvidos ao longo da formação.  
-É o meu diário de aprendizado e evolução na transição para a área de tecnologia.  
+## 📂 Projetos em destaque
+- 🔹 **CRUD de Tarefas em Flask** – *em construção*  
+- 🔹 **API de Cadastro de Imóveis** – *em construção*  
+- 🔹 **Dashboard de Dados Públicos** (Python + Pandas) – *em construção*  
+> Assim que eu publicar os repositórios, coloco os links aqui. 😉
 
 ---
 
-## 🗂 Estrutura do Repositório
+## 📚 Aulas do Programa Bolsa Futuro Digital (Backend Python)
+Este repositório reúne **aulas, exercícios e projetos práticos** da formação.
 
-📁 **AULA 01** → Introdução, primeiros códigos em Python  
-📁 **AULA 02** → Variáveis, tipos de dados e operações  
-📁 **AULA 03** → Condições (`if/else`) e estruturas de repetição  
-📁 **AULA 04** → Funções e boas práticas  
-📁 **AULA 05** → Estruturas de dados (listas, dicionários, tuplas)  
-📁 **AULA 06** → Exercícios de fixação  
-📁 **CRUD/** → Projeto prático: CRUD em Python (em andamento)  
-📁 **Exercícios/** → Resolução dos desafios propostos  
+**Estrutura (exemplo):**
+- 📁 `AULA_01` → Introdução e primeiros códigos em Python  
+- 📁 `AULA_02` → Variáveis, tipos de dados e operações  
+- 📁 `AULA_03` → Condições (if/else) e repetição  
+- 📁 `AULA_04` → Funções e boas práticas  
+- 📁 `AULA_05` → Estruturas de dados (listas, dicionários, tuplas)  
+- 📁 `AULA_06` → Exercícios de fixação  
+- 📁 `CRUD/` → Projeto prático: CRUD em Python (em andamento)  
+- 📁 `Exercicios/` → Desafios resolvidos
 
 ---
 
-## 💻 Tecnologias Utilizadas
+## 💻 Tecnologias utilizadas neste repositório
 - Python 🐍  
 - Git & GitHub  
-- Conceitos de Backend  
+- Conceitos de Backend (APIs, CRUD, dados)
 
 ---
 
-## 🎯 Objetivo
-- Consolidar minha base em **Python e Backend**  
-- Criar projetos práticos (CRUDs, APIs)  
-- Compartilhar minha evolução na jornada para a **transição de carreira em tecnologia**  
+## 🎯 Objetivos
+- Consolidar base em **Python** e **Backend**  
+- Criar **projetos práticos** (CRUDs, APIs)  
+- Compartilhar minha **evolução** na transição de carreira
 
 ---
 
-## 🚀 Próximos Passos
-- Avançar para frameworks web (Flask / FastAPI)  
-- Criar uma API REST com banco de dados  
-- Publicar os projetos em cloud (Render/Railway)  
+## 🚀 Próximos passos
+- Avançar para **Flask / FastAPI**  
+- Criar uma **API REST** com banco de dados  
+- Publicar projetos em **cloud** (Render / Railway)
 
 ---
 
-📬 **Conecte-se comigo:**  
-LinkedIn: https://www.linkedin.com/in/claudiatorreiro
-  
-Email:cgtorreiro@hotmail.com 
+## 📬 Conecte-se comigo
+- **LinkedIn:** https://www.linkedin.com/in/claudiatorreiro  
+- **Email:** cgtorreiro@hotmail.com
 
----
-
-✨ “Transição de carreira não é ruptura, é reinvenção. Minha missão é unir Direito + Tecnologia para criar soluções de impacto social.”
+> ✨ “Transição de carreira não é ruptura, é reinvenção. Minha missão é unir Direito + Tecnologia para criar soluções de impacto social.”
