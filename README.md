@@ -1,4 +1,4 @@
-Meu perfil no GitHub 🐱          
+Meu perfil 👩‍💻 no GitHub 🐱          
 Backend em formação (Python & Java)      
 ⚖️ Direito + 💻 Tecnologia Inovação Digital 💡 LegalTech 🚀
 
@@ -10,7 +10,7 @@ Backend em formação (Python & Java)
 
 🚀 Participante do programa **Bolsa Futuro Digital - Backend Python (Softex PE)**  
 
-📚 Apaixonada por unir **Direito + Tecnologia** para desenvolver soluções em **LegalTech, GovTech e RegTech**  
+📚 Apaixonada por unir **Direito + Tecnologia** 👩‍💻 para desenvolver soluções em **LegalTech, GovTech e RegTech**  
 
 ---
 
