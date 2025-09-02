@@ -39,7 +39,10 @@
 Conteúdos: lógica de análise de dados, perguntas orientadas a negócio, planilhas, noções de SQL/visualização e tomada de decisão baseada em dados.
 
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white)
+![Certificado](https://coursera.org/share/0ca9eeaaebdd4fe524ed71f9eb860613)
+
 ![Google](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?logo=google&logoColor=white)
+![Certificado](https://coursera.org/share/a44ff7bf7ab4bf14adcb1e4a339c3d63)
 
 ---
 
