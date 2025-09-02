@@ -31,18 +31,45 @@
 ---
 
 ## 📜 Certificações & Cursos
-**Google Data Analytics – Professional Certificate (Coursera)** · *Em andamento*  
+
+### ✅ Concluídos
+- 📊 [Google Data Analytics – Professional Certificate (Google/Coursera)](https://coursera.org/share/a44ff7bf7ab4bf14adcb1e4a339c3d63)
+
+### ⏳ Em andamento
+- 🐍 Bolsa Futuro Digital – Backend Python (Softex PE)
+- 🎓 Graduação em Gestão da Tecnologia da Informação (planejada)
+
+### 🚧 Em breve
+- ⚙️ Introdução ao Git e GitHub (Alura)
+- 🐍 Python Essentials (Cisco Networking Academy)
+
+
+
+---
+
+### 🎓 Google Data Analytics – Professional Certificate
+
+[![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?logo=google&logoColor=white)](https://coursera.org/share/a44ff7bf7ab4bf14adcb1e4a339c3d63)
+
+Emitido por: Google · Plataforma: [Coursera](https://www.coursera.org/)  
 - ✅ Curso 1: *Foundations: Data, Data, Everywhere*  
 - ✅ Curso 2: *Ask Questions to Make Data-Driven Decisions*  
-- ⏳ Próximos: *Prepare Data for Exploration*, *Process Data from Dirty to Clean*, *Analyze Data to Answer Questions*, *Share Data Through the Art of Visualization*, *Data Analysis with R Programming*, *Capstone*  
+- ✅ Curso 3: *Prepare Data for Exploration*  
+- ✅ Curso 4: *Process Data from Dirty to Clean*  
+- ✅ Curso 5: *Analyze Data to Answer Questions*  
+- ✅ Curso 6: *Share Data Through the Art of Visualization*  
+- ✅ Curso 7: *Data Analysis with R Programming*  
+- ✅ Curso 8: *Capstone: Complete a Case Study*  
 
-Conteúdos: lógica de análise de dados, perguntas orientadas a negócio, planilhas, noções de SQL/visualização e tomada de decisão baseada em dados.
+🔗 [Ver certificado completo no Coursera](https://coursera.org/share/a44ff7bf7ab4bf14adcb1e4a339c3d63)
 
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white)
-![Certificado](https://coursera.org/share/0ca9eeaaebdd4fe524ed71f9eb860613)
+> **Conteúdos:** lógica de análise de dados, perguntas orientadas a negócio, planilhas, noções de SQL, visualização de dados e tomada de decisão baseada em dados.
 
-![Google](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?logo=google&logoColor=white)
-![Certificado](https://coursera.org/share/a44ff7bf7ab4bf14adcb1e4a339c3d63)
+
+
+
+
+
 
 ---
 
@@ -73,21 +100,32 @@ Conteúdos: lógica de análise de dados, perguntas orientadas a negócio, plani
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=claudiatorreiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="stats do GitHub"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiatorreiro&layout=compact&langs_count=8&theme=dracula" alt="top languages"/>
-
-<img height="160" src="https://streak-stats.demolab.com?user=claudiatorreiro&theme=dracula" alt="streak"/>
+| <img height="160" src="https://github-readme-stats.vercel.app/api?username=claudiatorreiro&show_icons=true&theme=dracula&count_private=true"/> | <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiatorreiro&layout=compact&theme=dracula"/> | <img height="160" src="https://streak-stats.demolab.com?user=claudiatorreiro&theme=dracula"/> |
+|---|---|---|
 
 </div>
+
+
 
 ---
 
 ## 📂 Projetos em destaque
-- 🔹 **CRUD de Tarefas em Flask** – *em construção*  
-- 🔹 **API de Cadastro de Imóveis** – *em construção*  
-- 🔹 **Dashboard de Dados Públicos** (Python + Pandas) – *em construção*  
-> Assim que publicar os repositórios, adiciono os links aqui. 😉
+- 🔹 [CRUD de Tarefas em Flask](https://github.com/claudiatorreiro/crud-flask) – *em construção*  
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+- 🔹 [API de Cadastro de Imóveis](https://github.com/claudiatorreiro/api-imoveis) – *em construção*  
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+- 🔹 [Dashboard de Dados Públicos](https://github.com/claudiatorreiro/dashboard-dados-publicos) – *em construção*  
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=matplotlib&logoColor=white)
+
+
 
 ---
 
@@ -107,23 +145,23 @@ Este repositório reúne **aulas, exercícios e projetos práticos** da formaç�
 ---
 
 ## 🎯 Objetivos
-- Consolidar base em **Python** e **Backend**
-- Criar **projetos práticos** (CRUDs, APIs)
-- Compartilhar minha **evolução** na transição de carreira
-
----
+- 🐍 Aprender Python **██████████ 100%**
+- 📊 Projetos práticos (CRUDs, APIs) **███░░░░░░░ 30%**
+- ✍️ Compartilhar evolução **███░░░░░░░ 25%**
 
 ## 🚀 Próximos passos
-- Avançar para **Flask / FastAPI**
-- Criar uma **API REST** com banco de dados
-- Publicar projetos em **cloud** (Render / Railway)
+- ⚡ Flask / FastAPI **░░░░░░░░░░ 0%**
+- 🗄️ API REST com banco de dados **░░░░░░░░░░ 0%**
+- ☁️ Deploy em cloud (Render / Railway) **░░░░░░░░░░ 0%**
+
+
+
 
 ---
 
 ## 📬 Contato
-- **LinkedIn:** https://www.linkedin.com/in/claudiatorreiro  
-- **Email:** cgtorreiro@hotmail.com
-
-> ✨ “Transição de carreira não é ruptura, é reinvenção. Minha missão é unir Direito + Tecnologia para criar soluções de impacto social.”
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiatorreiro)
+[![Email](https://img.shields.io/badge/Email-cgtorreiro%40hotmail.com-red)](mailto:cgtorreiro@hotmail.com)
 
 
+_✨ “Transição de carreira não é ruptura, é reinvenção. Minha missão é unir Direito + Tecnologia para criar soluções de impacto social.”_
