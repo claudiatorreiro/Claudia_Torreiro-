@@ -24,7 +24,7 @@
 ---
 
 ## 🎓 Formação
-- Bacharel em **Direito** – especialização em **Direito Municipal**  
+- Bacharel em **Direito** – especialização em **Direito Municipal Gestão e Governança**  
 - Interesse em iniciar **Graduação em Gestão da Tecnologia da Informação (GTI)**  
   > Complementa a transição para Backend com visão de processos, projetos e governança de TI.
 
